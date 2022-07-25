@@ -1,0 +1,12 @@
+Objective: 
+Have user input indices used and have program tell them which ones to add for color-balancing
+
+Other option would be user puts in indices and program tells them if it is balanced or not ( for instances when 1 sample prep fails out of 8 etc)
+
+Data I have: 
+Color balancing worksheet, names of single libraries. 
+
+What I need to do: 
+make and import index data
+tell program what indices work, don't work for color balancing
+design a prompt for users to imput indices, without too much "coding"
